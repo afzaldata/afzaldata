@@ -1,10 +1,3 @@
-# Welcome to Afzal's GitHub
-
-## About Me  
-I am a Data Engineer with a Master's degree in Data Analytics from Queen Mary University of London and a strong foundation in designing and maintaining cloud-native data systems. I specialize in building scalable, reliable data pipelines using SQL, Python, PySpark, and AWS services. My expertise includes ETL development, Data Modeling & Warehousing, and automating end-to-end workflows to support analytics and business intelligence teams.
-
----
-
 ## Core Competencies  
 ### Data Engineering & ETL  
 - Data Modeling & Warehousing, ETL/ELT pipelines
